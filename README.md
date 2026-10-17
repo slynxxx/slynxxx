@@ -96,12 +96,6 @@ my interests span low-level software, game development, digital modeling, and cy
   <img width="95%" src="https://streak-stats.demolab.com?user=slynx&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" alt="contribution streak" />
 </p>
 
-### `contribution snake`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/slynx/slynx/output/github-contribution-grid-snake-dark.svg" alt="snake animation of github contributions" />
-</p>
-
 ### `activity`
 
 <p align="center">
