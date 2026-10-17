@@ -96,12 +96,6 @@ my interests span low-level software, game development, digital modeling, and cy
   <img width="95%" src="https://streak-stats.demolab.com?user=slynx&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" alt="contribution streak" />
 </p>
 
-### `activity`
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=slynx&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" alt="contribution activity graph" />
-</p>
-
 ### `projects`
 
 <p align="center">
