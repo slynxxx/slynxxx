@@ -6,7 +6,6 @@
   <br>
 
   <p>
-    <b>reverse engineer • coder • unity developer • 3d modeler • cybersecurity</b>
   </p>
 
   <br>
