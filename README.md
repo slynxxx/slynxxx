@@ -1,6 +1,3 @@
-
-
-```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=slynx&fontSize=58&fontColor=ffffff&fontAlignY=38" width="100%" />
 
@@ -20,5 +17,3 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%" />
 </div>
-```
-
