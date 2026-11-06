@@ -5,10 +5,6 @@
 
   <br>
 
-  <p>
-    <b>dc: yr0q</b>
-  </p>
-
   <br>
 
   <br><br>
