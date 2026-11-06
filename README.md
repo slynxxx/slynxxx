@@ -1,35 +1,24 @@
+
+
+```html
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=180&section=header&text=slynx&fontSize=58&fontColor=ffffff&fontAlignY=38" width="100%" />
 
-# slynx
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=reverse+engineer;coder;unity+developer;3d+modeler;cybersecurity" />
 
-`reverse engineer` · `developer` · `unity`
+  <br>
 
-<br>
+  <p>
+    <b>reverse engineer • coder • unity developer • 3d modeler • cybersecurity</b>
+  </p>
 
-software, game development, security and 3d.
+  <br>
 
-<br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=slynxxx&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_title=false" />
 
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%" />
 </div>
+```
 
-## about
-
-i work on software, explore how things work internally, and build projects ranging from games to developer tools.
-
-## focus
-
-- reverse engineering & software analysis
-- cybersecurity
-- game development with unity
-- 3d modeling and asset creation
-- software development
-
-## technologies
-
-`c++` · `c#` · `python` · `typescript` · `unity` · `blender`
-
-<br>
-
-<div align="center">
-  <sub> slynx / github </sub>
-</div>
