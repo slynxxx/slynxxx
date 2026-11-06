@@ -7,7 +7,5 @@
 
   <br>
 
-  <br><br>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%" />
 </div>
