@@ -11,8 +11,6 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=slynxxx&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_title=false" />
-
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%" />
